@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dogehouse-bot"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+environ = "^1.0"
+django-environ = "^0.4.5"
+flask = "^1.1.2"
+pythonping = "^1.0.16"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
