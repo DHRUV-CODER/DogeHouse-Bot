@@ -121,7 +121,10 @@ class Client(dogehouse.DogeClient):
 
             await self.send(message=f'->  {actv}',whisper=[ctx.author.id])
 
-
+    @dogehouse.command
+    async def source(self,ctx):
+        url = 'https://github.com/DHRUV-CODER/DogeHouse-Bot'
+        await self.send(message=f'->  {url}',whisper=[ctx.author.id])
     
     
     # @dogehouse.event
