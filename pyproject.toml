@@ -10,6 +10,7 @@ environ = "^1.0"
 django-environ = "^0.4.5"
 flask = "^1.1.2"
 pythonping = "^1.0.16"
+dogehouse = "^2.1.0"
 
 [tool.poetry.dev-dependencies]
 
