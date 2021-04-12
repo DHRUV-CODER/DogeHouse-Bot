@@ -5,7 +5,7 @@ DogeHouse Bot
 make a `.env` file with `TOKEN` & `REFRESH_TOKEN`
 
 
-## Below is an example for the `.env` file for this project
+# Below is an example for the `.env` file for this project
 
 ```
 TOKEN=put__ur_toke
