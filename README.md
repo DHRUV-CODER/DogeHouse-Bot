@@ -10,6 +10,6 @@ make a `.env` file with `TOKEN` & `REFRESH_TOKEN`
 Follow The Steps
 
 ```
-TOKEN=put__ur_toke
+TOKEN=put__ur_token
 REFRESH_TOKEN=put_ur_refresh_token
 ```
